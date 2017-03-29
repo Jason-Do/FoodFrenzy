@@ -1,0 +1,6 @@
+Food Frenzy
+By Jason Do and Natasha Mislang
+
+You are a person who is hungry, deliriously so.  Despite your intense urge to totally pig out, you cannot.  You are on the diet you started for your New Year's Resolution and you vowed that you would stick to it this time.  However, you are so famished that you begin to hallucinate junk food as monsters out to get you.  Evil pizzas are floating around, demonicdonuts are flying about, exploding ice cream litters the ground, and the floor is nacho cheese lava!  Not to mention, the giant pizza abominatin enlessly chasing you throughout the depths of your mind.  Be strong, for if you touch these monstrous hallucinations, you surely will fall to the temptations of junk food.  Keep your wits about you, picking up power ups like apples and forks to helpyou last until dinner time!
+
+Use the arrow keys to move and press space to fire a limited amount of forks.  Hold up to hang in the air and hold down to fall faster.  Apples give you extra lives while floating forks give you more ammo.  Forks destroy hallucinations on contact.  However, beware the giant pizza monster that slowly chases you, as he is immune to forks until you reach the end!
